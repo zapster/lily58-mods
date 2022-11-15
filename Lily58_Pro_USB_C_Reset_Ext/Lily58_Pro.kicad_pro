@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "copper_edge_clearance|82942498|62755000|9f0b385c-c015-4f06-a18b-c7a64fba3742|0e298b27-6025-48c4-a85d-34e5d7a79da3",
         "copper_edge_clearance|82942498|62755000|9f0b385c-c015-4f06-a18b-c7a64fba3742|bb9a473d-efd8-48a8-b1fb-28c7d976ad29",
@@ -122,7 +128,7 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.049999999999999996,
+        "min_via_annular_width": 0.127,
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
@@ -131,7 +137,12 @@
         0.25,
         0.5
       ],
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
