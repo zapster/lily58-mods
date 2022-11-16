@@ -19,6 +19,14 @@ The ExtUR0 revision of the PCB as been sent to the fab on 2022-11-15.
 #### Back/Left Side
 ![Back!](/Lily58_Pro_USB_C_Reset_Ext/revisions/ExtUR0/back.png "Back aka Left Hand Side")
 
+### Holes
+
+| Component | Hole | Pad |
+| ----------| ---- | --- |
+| TRRS jack | 0.5mm x 1.6mm |1.2mm x 2.1mm|
+| R1, R2, P1, P2 | 32mil (0.8128mm) | 55mil (1.3970mm) |
+| Reset button | 1.3mm | 2.5mm |
+
 ### Bill of Material
 
 | Qty | Part          | Description       | Comment |
@@ -29,3 +37,4 @@ The ExtUR0 revision of the PCB as been sent to the fab on 2022-11-15.
 ### Known Issues
 
 * The part names and the name silk screens are face the other direction. Since the parts are inherited from the Lily58 PCB, the name should be flipped.
+* All holes that connect to the Lily58 Pro PCB should probably use the same size for simplicity.
