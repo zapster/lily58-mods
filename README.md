@@ -13,6 +13,8 @@ The idea is to create a PCB that can be soldered to the TRRS jacks footprint.
 Since the USB C is non-standard and might be confused with the USB jacks on the MCU,
 the interconnect will likely use a magnetic USB C cable.
 
+Go to [Lily58_Pro_USB_C_Reset_Ext](./Lily58_Pro_USB_C_Reset_Ext/)
+
 ### Part Evaluation:
 * USB C recaptacle: USB4110-GF-A
 * Magnetic USB C cable: https://www.amazon.de/gp/product/B0B76D7L5Q/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1
