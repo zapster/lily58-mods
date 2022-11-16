@@ -25,3 +25,7 @@ The ExtUR0 revision of the PCB as been sent to the fab on 2022-11-15.
 | --- | ------------- | ----------------  | ---
 |   2 | TL3330AF130QG | Side-reset button |
 |   2 | USB4110-GF-A  | USB C receptacle  |
+
+### Known Issues
+
+* The part names and the name silk screens are face the other direction. Since the parts are inherited from the Lily58 PCB, the name should be flipped.
