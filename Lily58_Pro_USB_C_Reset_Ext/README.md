@@ -29,12 +29,14 @@ The ExtUR0 revision of the PCB as been sent to the fab on 2022-11-15.
 
 ### Bill of Material
 
+For both keyboard sides.
+
 | Qty | Part          | Description       | Comment |
 | --- | ------------- | ----------------  | --- |
 |   2 | TL3330AF130QG | Side-reset button | |
 |   2 | USB4110-GF-A  | USB C receptacle  | |
-|   4 | 3121-2-00-15-00-00-08-0 | Mill Max pin | TRRS |
-|   2 | 3136-1-00-15-00-00-08-0 | Mill Max pin | Reset Button |
+|   8 | 3121-2-00-15-00-00-08-0 | Mill Max pin | TRRS |
+|   4 | 3136-1-00-15-00-00-08-0 | Mill Max pin | Reset Button |
 
 ### Known Issues
 
