@@ -40,5 +40,5 @@ For both keyboard sides.
 
 ### Known Issues
 
-* The part names and the name silk screens are face the other direction. Since the parts are inherited from the Lily58 PCB, the name should be flipped.
+* The part names and the board name silk screens are face the other direction. Since the parts are inherited from the Lily58 PCB, the board name should be flipped.
 * All holes that connect to the Lily58 Pro PCB should probably use the same size for simplicity.
